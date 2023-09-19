@@ -1,0 +1,8 @@
+Answer Key: CADCB DEEDD EBCDB DBACE BCDDC
+
+Ans dist:
+A: 2
+B: 5
+C: 6
+D: 9
+E: 4
