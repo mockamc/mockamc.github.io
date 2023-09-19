@@ -1,0 +1,1 @@
+Please see https://mockamc.github.io/copyright.html for all copyright notices pertaining to this repository. `LICENSE.txt` only covers modifications/contributions made by MockAMC.
