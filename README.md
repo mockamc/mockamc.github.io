@@ -1,1 +1,3 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmockamc.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Please see https://mockamc.github.io/copyright.html for all copyright notices pertaining to this repository. `LICENSE.txt` only covers modifications/contributions made by MockAMC.
